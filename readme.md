@@ -1,6 +1,6 @@
 # Analysis of Student Performance
 
-### Note: This project is not complete and is in progress.
+#### Note: This project is not complete and is in progress.
 ## Project Overview
 In this analysis, we delve into the factors that influence the academic scores of students, examining elements like gender, ethnicity, parental education, lunch types, and the impact of test preparation courses. Through data-driven insights and machine learning models, we aim to predict the outcomes of student performances.
 
