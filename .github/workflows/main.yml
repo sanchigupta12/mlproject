@@ -101,3 +101,9 @@ jobs:
       - name: Clean previous images and containers
         run: |
          docker system prune -f
+
+      - name: Clean up disk space
+        run: |
+          docker system prune -af
+          docker volume prune -f
+
